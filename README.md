@@ -2,7 +2,6 @@
 Nextjs web application with NGINX as reverse proxy working with docker compose 
 
 ## Set up Docker and NGINX for a Next.js app
-==================================================================
 
 Next.js | NGINX | Docker | PM2 | Node
 
